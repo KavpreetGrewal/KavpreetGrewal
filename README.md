@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am currently a computer science student at UBC 📚 working on some awesome projects!! I develop software and build projects that will hopefully make things easier.
 
-#### 🌐 To learn more about me visit my website: [kavpreetgrewal.com](kavpreetgrewal.com)
+#### 🌐 To learn more about me visit my website: [https://kavpreetgrewal.com](https://kavpreetgrewal.com)
 
 #### 📬 You can also get in touch with me at [kavpreetgrewal@gmail.com](mailto:kavpreetgrewal@gmail.com)
