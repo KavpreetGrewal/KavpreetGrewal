@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kavpreet 👋
 
 <!--
 **KavpreetGrewal/KavpreetGrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a computer science student at UBC 📚 working on some awesome projects!! I develop software and build projects that will hopefully make things easier.
+
+#### 🌐 To learn more about me visit my website: 
+
+#### 📬 You can also get in touch with me at [kavpreetgrewal@gmail.com](mailto:kavpreetgrewal@gmail.com)
