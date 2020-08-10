@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a computer science student at UBC 📚 working on some awesome projects!! I develop software and build projects that will hopefully make things easier.
+I am currently a computer science student at UBC 📚 working on some awesome projects! I develop software and build projects that will hopefully make things easier.
 
 #### 🌐 To learn more about me visit my website: [https://kavpreetgrewal.com](https://kavpreetgrewal.com)
 
