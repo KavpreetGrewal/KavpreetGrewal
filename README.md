@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am currently a computer science student at UBC 📚 working on some awesome projects! I develop software and build projects that will hopefully make a meanginful difference.
 
+I have currently developed [OnTrack](https://github.com/KavpreetGrewal/onTrack-TimeTracker) which is a useful flutter app for iOS and Android which makes time/hours tracking super easy. I've also developed a cool [browser extension](https://github.com/KavpreetGrewal/touchless-webpage-scroller) using TensorFlow handtracking, which allows users to scroll webpages without touching their devices! However, that's not all, along with additional updates to my current projects, I have many more interesting projects coming up soon, so stay tuned!
+
 #### 🌐 To learn more about me visit my website: [https://kavpreetgrewal.com](https://kavpreetgrewal.com)
 
 #### 📬 You can also get in touch with me at [kavpreetgrewal@gmail.com](mailto:kavpreetgrewal@gmail.com)
