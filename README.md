@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am currently a computer science student at UBC 📚 working on some awesome projects! I develop software and build projects that will hopefully make a meanginful difference.
 <!--
 #### What I'm currently working on
-I am currently working on building a recruitment tool for clubs at UBC Launch Pad with a team of developers and designers. The tool with help clubs streamline their recritument process by providing a single place where they can view and grade applications, analyze analytics, and communicate with applicants. This is being developed with React and Node.js.
+I am currently working on building a recruitment tool for clubs at UBC Launch Pad with a team of developers and designers. The tool will help clubs streamline their recruitment process by providing a single place where they can view and grade applications, analyze analytics, and communicate with applicants. This is being developed with React and Node.js.
 
 #### Projects
 -->
