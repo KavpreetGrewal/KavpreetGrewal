@@ -1,4 +1,4 @@
-### Hi there, I'm Kavpreet 👋
+### Hey, I'm Kavpreet 👋
 
 <!--
 **KavpreetGrewal/KavpreetGrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a computer science student at UBC 📚 working on some awesome projects! I develop software and build projects that will hopefully make a meanginful difference.
-<!--
-#### What I'm currently working on
-I am currently working on building a recruitment tool for clubs at UBC Launch Pad with a team of developers and designers. The tool will help clubs streamline their recruitment process by providing a single place where they can view and grade applications, analyze analytics, and communicate with applicants. This is being developed with React and Node.js.
+I'm a computer science student at UBC 📚 working on some cool projects! I develop software and build projects that will hopefully have a positive imapct. 
 
-#### Projects
--->
-I have currently developed [OnTrack](https://github.com/KavpreetGrewal/onTrack-TimeTracker) which is a useful flutter app for iOS and Android which makes time/hours tracking super easy. I've also developed a cool [browser extension](https://github.com/KavpreetGrewal/touchless-webpage-scroller) using TensorFlow handtracking, which allows users to scroll webpages without touching their devices! However, that's not all, along with additional updates to my current projects, I have many more interesting projects coming up soon, so stay tuned!
+I'm currently leading a team at [@ubclaunchpad](https://github.com/ubclaunchpad) to build [Ledge-it](https://github.com/ubclaunchpad/ledge-it), an app to help students stay on top of their finances 📊
 
-#### 🌐 To learn more about me visit my website: [kavpreetgrewal.com](https://kavpreetgrewal.com)
+Some of my previous projects include bulding a [recruitment tool](https://github.com/ubclaunchpad/club-manager-client) for student clubs, a [mobile app](https://github.com/KavpreetGrewal/onTrack-TimeTracker) to make time/hours tracking super easy, a [browser extension](https://github.com/KavpreetGrewal/touchless-webpage-scroller) to allow users to scroll webapges hands-free, and many more down below ⬇️ There's always something new in the pipeline, so stay tuned 🔖
 
-#### 📬 You can also get in touch with me at [kavpreetgrewal@gmail.com](mailto:kavpreetgrewal@gmail.com)
+Thanks for dropping by! Oh and before you go... 
+
+Feel free to checkout my website: **[kavpreetgrewal.com](https://kavpreetgrewal.com)** 📍 for some more cool stuff or reach out to me at **[kavpreetgrewal@gmail.com](mailto:kavpreetgrewal@gmail.com)** 📬
