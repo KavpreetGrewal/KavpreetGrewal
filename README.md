@@ -19,7 +19,7 @@ I'm a computer science student at UBC 📚 working on some cool projects! I deve
 
 I'm currently leading a team at [@ubclaunchpad](https://github.com/ubclaunchpad) to build [Ledge-it](https://github.com/ubclaunchpad/ledge-it), an app to help students stay on top of their finances 📊
 
-Some of my previous projects include bulding a [recruitment tool](https://github.com/ubclaunchpad/club-manager-client) for student clubs, a [mobile app](https://github.com/KavpreetGrewal/onTrack-TimeTracker) to make time/hours tracking super easy, a [browser extension](https://github.com/KavpreetGrewal/touchless-webpage-scroller) to allow users to scroll webapges hands-free, and many more down below ⬇️ There's always something new in the pipeline, so stay tuned 🔖
+Some of my previous projects include bulding a [recruitment tool](https://github.com/ubclaunchpad/club-manager-client) for student clubs, a [SMS service](https://github.com/KavpreetGrewal/notify-server) to send news articles on demandn to those without internet, a [mobile app](https://github.com/KavpreetGrewal/onTrack-TimeTracker) to make time/hours tracking super easy, a [browser extension](https://github.com/KavpreetGrewal/touchless-webpage-scroller) to allow users to scroll webapges hands-free, and many more down below ⬇️ There's always something new in the pipeline, so stay tuned 🔖
 
 Thanks for dropping by! Oh and before you go... 
 
